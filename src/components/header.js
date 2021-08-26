@@ -13,7 +13,7 @@ const Header = () => {
   const title = (() => {
     switch (pathname) {
       case "/about":
-        return <Link to="/portfolio">My Work</Link>
+        return <Link to="/fe-portfolio">My Work</Link>
       default:
         return <Link to="/about">About me</Link>;
     }

@@ -21,7 +21,7 @@ const Default = () => {
           </main>
         </header>
         <footer>
-          <Link to="/portfolio"><img src={arrow} alt="arrow" className="arrow down" /></Link>
+          <Link to="/fe-portfolio"><img src={arrow} alt="arrow" className="arrow down" /></Link>
         </footer>
       </div>
       <ul className="items">
