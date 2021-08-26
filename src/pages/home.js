@@ -16,7 +16,7 @@ const Home = () => {
         </main>
       </header>
       <footer>
-        <Link to="/portfolio"><img src={arrow} alt="arrow" /></Link>
+        <Link to="/fe-portfolio"><img src={arrow} alt="arrow" /></Link>
       </footer>
     </div>
   )
