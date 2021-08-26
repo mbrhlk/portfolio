@@ -26,7 +26,7 @@ const Default = () => {
       </div>
       <ul className="items">
         {projects.map((project, i) => {
-          const goToProject = () => history.push(`/portfolio/${project.id}`)
+          const goToProject = () => history.push(`/fe-portfolio/${project.id}`)
   
           return (
             <li key={i} onClick={goToProject}>
