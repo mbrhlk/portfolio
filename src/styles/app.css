@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+h1, h2, h3, a {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "mencken-std";
+  color: #0A0A0A;
+}
+
+h1 {
+  font-size: 6vw;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 6vw;
+}
+
+h3 {
+  text-align: left;
+  font-size: 1.5vw;
+}
+
+p {
+  font-family: "mencken-std-text";
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+main {
+  display: inline-block;
+  float: none;
+  margin: 0 auto;
+}
+
+main h3 {
+  float: right;
+}
+
+.no-deco {
+  text-decoration: none;
+}
+
+a span {
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.notransform {
+  text-transform: none;
+}
+
+.small {
+  width: 100px !important;
+}
+
+.down {
+  transform: rotate(90deg);
+}
+
+.app {
+  width: 90%;
+  max-width: 1200px;
+  float: none;
+  margin: 0 auto;
+}
