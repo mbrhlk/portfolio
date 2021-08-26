@@ -18,7 +18,7 @@ const App = () => {
         <Header />
 
         <Switch>
-          <Route path="/portfolio">
+          <Route path="/fe-portfolio">
             <Portfolio />
           </Route>
           <Route path="/about">
