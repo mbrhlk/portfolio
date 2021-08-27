@@ -26,8 +26,8 @@ const Header = () => {
       <nav>
         <ul>
           <li><a href="https://dribbble.com/mabrhlk" target="_blank" rel="noopener noreferrer"><img src={dribble} alt="dribble" /></a></li>
-          <li><a href="https://www.linkedin.com/in/marinabraholka" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" /></a></li>
-        </ul>
+          <li><a href="https://www.linkedin.com/in/marinabraholka" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" /></a></li>                
+          </ul>
       </nav>
     </header>
   )
