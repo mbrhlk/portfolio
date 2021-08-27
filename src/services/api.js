@@ -43,7 +43,7 @@ const api = [
   {
     id: "diet-app",
     img: [ p0401, p0402 ],
-    github: "https://github.com/personality-test",
+    github: "https://github.com/consultor",
     app: "",
     title: "Diet app",
     description: {
