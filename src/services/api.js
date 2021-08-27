@@ -44,7 +44,7 @@ const api = [
     id: "diet-app",
     img: [ p0401, p0402 ],
     github: "https://github.com/consultor",
-    app: "",
+    app: "https://mbrhlk.github.io/consultor",
     title: "Diet app",
     description: {
       short: "This app was made to create a simple diet plan for people who wants to lose weight, or eat healthier.",
